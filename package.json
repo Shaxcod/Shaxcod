@@ -1,0 +1,1 @@
+{\n  "name": "rice-marketplace",\n  "version": "1.0.0",\n  "scripts": {\n    "build": "echo 'Building the project...' && exit 0",\n    "deploy": "echo 'Deploying the project...' && exit 0"\n  }\n}
